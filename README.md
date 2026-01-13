@@ -4,7 +4,7 @@ A front-end web development project from the freeCodeCamp curriculum to build a 
 
 ## Description
 
-This project is part of the "**Learn Basic CSS by Building a Cafe Menu**" course on [freeCodeCamp](www.freecodecamp.org). The goal was to practice foundational CSS concepts like text styling, borders, alignment, and basic layout techniques to replicate a provided design for a coffee shop menu.
+ The goal was to practice foundational CSS concepts like text styling, borders, alignment, and basic layout techniques to replicate a provided design for a coffee shop menu.
 
 The fictional cafe, "Camper Cafe," includes sections for Coffee and Desserts with item names and prices.
 
