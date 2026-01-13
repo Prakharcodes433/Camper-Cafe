@@ -1,6 +1,6 @@
 # ☕ Camper Cafe Menu
 
-A front-end web development project from the freeCodeCamp curriculum to build a simple, responsive cafe menu using basic HTML and CSS.
+A front-end web development project a simple, responsive cafe menu using basic HTML and CSS.
 
 ## Description
 
